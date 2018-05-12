@@ -1,10 +1,16 @@
 _repo: The-Mentor-Venice-the-Island-City-Vol-1-Num-27-Serial-No-27_49891
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49891-h/images/cover.jpg
 creator:
   author:
     agent_name: Elmendorf, Dwight L.
     gutenberg_agent_id: '45347'
     url: http://www.gutenberg.org/2009/agents/45347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49891#The-Mentor-Venice-the-Island-City-Vol-1-Num-27-Serial-No-27
 gutenberg_issued: '2015-09-06'
 gutenberg_type: Text
 identifiers:
